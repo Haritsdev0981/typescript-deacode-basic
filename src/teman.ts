@@ -27,11 +27,10 @@ interface IMacbook {
 }
 
 interface Apple extends IMacbook {
-    seken: boolean
-    stuff: string
+    stuff?: string
 }
 
-const macbookPro = {
+const macbookPro: IMacbook = {
     brand: "Apple",
     outYears: 2022,
     macOs: "Ventura",
