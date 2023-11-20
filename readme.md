@@ -1,3 +1,7 @@
+# Learning Typescript Basic
+
+Follow a more complete code tutorial from YouTube [Dea Afrizal](https://www.youtube.com/watch?v=ugOonjYVxYM)
+
 ## Check Version
 
 • To check node.js version use this command `node -v`. <br>
